@@ -1,0 +1,15 @@
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\bin\Debug\net6.0\exersise29.exe
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\bin\Debug\net6.0\exersise29.deps.json
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\bin\Debug\net6.0\exersise29.runtimeconfig.json
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\bin\Debug\net6.0\exersise29.dll
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\bin\Debug\net6.0\exersise29.pdb
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\obj\Debug\net6.0\exersise29.csproj.AssemblyReference.cache
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\obj\Debug\net6.0\exersise29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\obj\Debug\net6.0\exersise29.AssemblyInfoInputs.cache
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\obj\Debug\net6.0\exersise29.AssemblyInfo.cs
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\obj\Debug\net6.0\exersise29.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\obj\Debug\net6.0\exersise29.dll
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\obj\Debug\net6.0\refint\exersise29.dll
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\obj\Debug\net6.0\exersise29.pdb
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\obj\Debug\net6.0\exersise29.genruntimeconfig.cache
+C:\Users\Yulya\Desktop\home_work_C#_4\exersise29\obj\Debug\net6.0\ref\exersise29.dll
